@@ -9,6 +9,9 @@ Feel free to play around with it.
 ## Database
 While installing contao, use the following credentials in order to access the database.
 
-|  hostname | db       |
-|  user     | root     |
-|  password | password |
+| field    	| value    	|
+|----------	|----------	|
+| hostname 	| db       	|
+| username 	| root     	|
+| password 	| password 	|
+| database 	| contao   	|
