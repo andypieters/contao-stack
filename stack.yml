@@ -12,6 +12,8 @@ services:
     environment:
       MYSQL_DATABASE: contao
       MYSQL_ROOT_PASSWORD: password
+      MYSQL_USER: db
+      MYSQL_PASS: db
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
     restart: always
